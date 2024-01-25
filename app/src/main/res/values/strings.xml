@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Galerie Photo</string>
+    <string name="description_photo1">Lavender field</string>
+    <string name="description_photo2">Mountain cabin</string>
+    <string name="description_photo3">Sunset with the horses</string>
+    <string name="description_photo4">Desert</string>
+    <string name="title_photo1">Lavender field</string>
+    <string name="tilte_photo2">Mountain cabin</string>
+    <string name="title_photo3">Sunset with the horses</string>
+    <string name="title_photo4">Desert</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+</resources>
